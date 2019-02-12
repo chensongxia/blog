@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 木公的博客          #网站标题
+title: 写代码的木公          #网站标题
 subtitle: 记录技术和生活    #网站副标题
 description: 这是一个个人博客，旨在记录自己成长的点点滴滴 #网站副标题，主要用于SEO，后续优化
 keywords:         #关键字（作用是什么??）
